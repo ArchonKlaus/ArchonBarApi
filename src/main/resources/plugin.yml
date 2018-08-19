@@ -1,0 +1,6 @@
+name: BossBarText
+version: "1.0"
+api: ["1.0.0"]
+author: Archon Klaus - ArchonTeam.org
+description: Simple boss bar api for Nukkit
+main: idk.plugin.archonbarapi.ArchonBarAPI
